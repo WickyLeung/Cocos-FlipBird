@@ -1,5 +1,5 @@
 
-import { _decorator, Component, Node } from 'cc';
+import { _decorator, Component, Node, Animation } from 'cc';
 const { ccclass, property } = _decorator;
 
 /**
@@ -13,7 +13,7 @@ const { ccclass, property } = _decorator;
  * ManualUrl = https://docs.cocos.com/creator/3.4/manual/en/
  *
  */
- 
+
 @ccclass('bird')
 export class bird extends Component {
     // [1]
@@ -22,9 +22,22 @@ export class bird extends Component {
     // [2]
     // @property
     // serializableDummy = 0;
+    @property({ type: Animation })
+    anim: Animation | null = null;
+    flappingAnim: Animation | null = null;
 
-    start () {
+    onLoad() {
+        this.flappingAnim = this.getComponent(Animation);
+    }
+
+    start() {
         // [3]
+        if (this.flappingAnim) {
+            this.flappingAnim.play('birdFlapping');
+        }
+        if (this.anim) {
+            this.anim.play("birdWing");
+        }
     }
 
     // update (deltaTime: number) {

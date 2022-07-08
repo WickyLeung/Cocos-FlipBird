@@ -16,18 +16,20 @@ const { ccclass, property } = _decorator;
 
 @ccclass('Scroller')
 export class Scroller extends Component {
-    // [1]
-    // dummy = '';
-    canScroll = false
-
     @property
-    speed = 50;
-    // [2]
-    // @property
-    // serializableDummy = 0;
+    speed = 300;
+
+    private resetX = -300
+    private canScroll = false
+
+    onLoad() {
+        this.canScroll = true
+        console.log('onLoad')
+    }
 
     start() {
-        this.canScroll = true
+        // this.canScroll = true
+        console.log('start')
     }
 
 
@@ -36,13 +38,21 @@ export class Scroller extends Component {
             return;
         }
 
-        let x = this.node.position.x - this.speed;
+        let x = this.node.position.x - this.speed * deltaTime;
 
-        if (x < -200) {
-            this.node.setPosition(0, this.node.position.y, this.node.position.z);
+        if (x < this.resetX) {
+            this.node.setPosition(-this.resetX, this.node.position.y, this.node.position.z);
         } else {
             this.node.setPosition(x, this.node.position.y, this.node.position.z);
         }
+    }
+
+    stopScroll() {
+        this.canScroll = false;
+    }
+
+    startScroll() {
+        this.canScroll = true;
     }
 }
 
