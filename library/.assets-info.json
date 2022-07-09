@@ -1,0 +1,202 @@
+{
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources": {
+    "time": 1657118670832.2268,
+    "uuid": "6cc03bd2-1e58-40b9-89ba-57a1647d2de8",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scenes": {
+    "time": 1657372463575.5518,
+    "uuid": "24f9f3d8-0040-4717-8ae2-917f19cf18ee",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts": {
+    "time": 1657372463577.547,
+    "uuid": "c1b45b79-6f99-4cba-910a-b8d1ea4e3b96",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\animation": {
+    "time": 1657372463578.544,
+    "uuid": "0bd7a462-43b9-4f9b-aec8-679779f3d049",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\fonts": {
+    "time": 1657118670825.2449,
+    "uuid": "bc2eac1b-47d0-4459-bf10-0518b1727880",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\image": {
+    "time": 1657118670829.2341,
+    "uuid": "c0b96b92-363f-4497-aa02-7c8d9aa45fa4",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\prefab": {
+    "time": 1657118670831.2292,
+    "uuid": "2346693c-e399-4536-9472-da5f86273cd8",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound": {
+    "time": 1657118670836.2153,
+    "uuid": "835def9a-8657-4c78-b903-1c39beaded9f",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scenes\\Entrance.scene": {
+    "time": 1657374949304.818,
+    "uuid": "48c0f7e3-a286-45f2-9392-6d90bb5767a3",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scenes\\Game.scene": {
+    "time": 1657375132617.7542,
+    "uuid": "0e7be660-76d4-4afb-8c19-8987e172f5d5",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts\\bird.ts": {
+    "time": 1657372463577.547,
+    "uuid": "7704158f-3c28-4b14-aa16-791ce3ca3504",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts\\Scroller.ts": {
+    "time": 1657372463576.5496,
+    "uuid": "e852ab3a-3754-4132-b2dd-2a863cf17406",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts\\startButtonManager.ts": {
+    "time": 1657372463577.547,
+    "uuid": "398a6a45-ac23-4672-abed-722752ed385b",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\animation\\birdFlapping.anim": {
+    "time": 1657372463579.541,
+    "uuid": "f9df5b44-5fa4-465f-bb8c-d0b31840f867",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\animation\\birdWing.anim": {
+    "time": 1657119156246.0227,
+    "uuid": "293d6ec1-dbc4-4953-85f1-cdebb77aa707",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\fonts\\number.fnt": {
+    "time": 1657118670824.2476,
+    "uuid": "2f6a4e55-7eee-44a6-842a-3c3b9937a19a",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\fonts\\number.png": {
+    "time": 1657118670825.2449,
+    "uuid": "6bf721c1-9d0c-4ef8-b6c2-d085496f106e",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\image\\res_bundle.plist": {
+    "time": 1657118670826.2424,
+    "uuid": "d8e9f8a0-f51f-4064-ba98-e226ce6c8357",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\image\\res_bundle.png": {
+    "time": 1657118670829.2341,
+    "uuid": "2a84fa57-ff39-4730-a9cd-cefe89c97a4d",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\prefab\\PipeGroup.prefab": {
+    "time": 1657118670831.2292,
+    "uuid": "521d457c-ec45-468c-a775-82aeaf4d3d95",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\collision.mp3": {
+    "time": 1657118670832.2268,
+    "uuid": "0e7227da-0197-4ffc-986c-3ddb87cdb5ed",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\drop.mp3": {
+    "time": 1657118670833.2234,
+    "uuid": "a135f983-dffa-4f05-98a9-bd549ea369c4",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\point.mp3": {
+    "time": 1657118670834.221,
+    "uuid": "40be3b81-c9b0-4b97-a3a0-3c4d400bd5bc",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\rise.mp3": {
+    "time": 1657118670835.218,
+    "uuid": "cf9de116-2357-4872-a736-c085a1987b7e",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\swooshing.mp3": {
+    "time": 1657118670836.2153,
+    "uuid": "507ed7eb-8c19-40a3-a258-4d60290fe395",
+    "missing": false
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources.meta": {
+    "time": 1657118670821.2556
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scenes.meta": {
+    "time": 1657118670818.2637
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts.meta": {
+    "time": 1657118670819.2607
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\animation.meta": {
+    "time": 1657118670821.2556
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\fonts.meta": {
+    "time": 1657118670824.2476
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\image.meta": {
+    "time": 1657118670826.2424
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\prefab.meta": {
+    "time": 1657118670830.2317
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound.meta": {
+    "time": 1657118670831.2292
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts\\bird.ts.meta": {
+    "time": 1657119156245.0251
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts\\Scroller.ts.meta": {
+    "time": 1657119156244.0286
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scripts\\startButtonManager.ts.meta": {
+    "time": 1657372463577.547
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\animation\\birdWing.anim.meta": {
+    "time": 1657118670823.2502
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\animation\\birdFlapping.anim.meta": {
+    "time": 1657118670822.2527
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scenes\\Game.scene.meta": {
+    "time": 1657372463575.5518
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\Scenes\\Entrance.scene.meta": {
+    "time": 1657118670819.2607
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\fonts\\number.fnt.meta": {
+    "time": 1657118670825.2449
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\prefab\\PipeGroup.prefab.meta": {
+    "time": 1657118670831.2292
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\collision.mp3.meta": {
+    "time": 1657118670833.2234
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\fonts\\number.png.meta": {
+    "time": 1657118670825.2449
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\drop.mp3.meta": {
+    "time": 1657118670833.2234
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\rise.mp3.meta": {
+    "time": 1657118670835.218
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\point.mp3.meta": {
+    "time": 1657118670834.221
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\sound\\swooshing.mp3.meta": {
+    "time": 1657118670836.2153
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\image\\res_bundle.png.meta": {
+    "time": 1657118670829.2341
+  },
+  "C:\\Users\\Administrator\\Desktop\\Cocos-FlipBird\\assets\\resources\\image\\res_bundle.plist.meta": {
+    "time": 1657118670827.2395
+  }
+}

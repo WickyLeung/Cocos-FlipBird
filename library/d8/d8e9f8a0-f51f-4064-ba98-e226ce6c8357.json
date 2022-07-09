@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "res_bundle",
+    "spriteFrames": [
+      "background",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@dfcdd",
+      "bird1",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@451fd",
+      "bird2",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@79483",
+      "bird3",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@e7d42",
+      "bottom_pipe",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@7ab33",
+      "game_name",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@76706",
+      "gameover",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@3af3a",
+      "getready",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@f2224",
+      "ground",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@572fd",
+      "medal_gold",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@bd9e2",
+      "medal_silver",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@a67ff",
+      "result_board",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@a452d",
+      "start",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@e7632",
+      "tap",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@8556b",
+      "top_pipe",
+      "d8e9f8a0-f51f-4064-ba98-e226ce6c8357@68546"
+    ]
+  }
+}

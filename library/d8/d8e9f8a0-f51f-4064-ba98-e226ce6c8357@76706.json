@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_name",
+    "atlas": "d8e9f8a0-f51f-4064-ba98-e226ce6c8357",
+    "rect": {
+      "x": 1828,
+      "y": 1,
+      "width": 466,
+      "height": 140
+    },
+    "offset": {
+      "x": -7,
+      "y": 9
+    },
+    "originalSize": {
+      "width": 508,
+      "height": 158
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2a84fa57-ff39-4730-a9cd-cefe89c97a4d@6c48a",
+    "packable": true
+  }
+}

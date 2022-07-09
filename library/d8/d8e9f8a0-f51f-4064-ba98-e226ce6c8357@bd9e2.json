@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "medal_gold",
+    "atlas": "d8e9f8a0-f51f-4064-ba98-e226ce6c8357",
+    "rect": {
+      "x": 1639,
+      "y": 838,
+      "width": 113,
+      "height": 111
+    },
+    "offset": {
+      "x": 5,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 123,
+      "height": 113
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2a84fa57-ff39-4730-a9cd-cefe89c97a4d@6c48a",
+    "packable": true
+  }
+}
